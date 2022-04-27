@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+	<id>http://lithium-rp.fr/wiki/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+	<title>Wiki - Lithium  - Modifications récentes [fr]</title>
+	<link rel="self" type="application/atom+xml" href="http://lithium-rp.fr/wiki/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Sp%C3%A9cial:Modifications_r%C3%A9centes"/>
+	<updated>2020-09-10T17:03:53Z</updated>
+	<subtitle>Suivez les dernières modifications du wiki dans ce flux.</subtitle>
+	<generator>MediaWiki 1.34.2</generator>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=Liste_des_commandes&amp;diff=13&amp;oldid=0</id>
+		<title>Liste des commandes</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=Liste_des_commandes&amp;diff=13&amp;oldid=0"/>
+		<updated>2020-09-08T00:56:25Z</updated>
+
+		<summary type="html">&lt;p&gt;Page créée avec « &amp;lt;div class=&amp;quot;mw-indicators mw-body-content&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;  	 	&amp;lt;h1 id=&amp;quot;firstHeading&amp;quot;  lang=&amp;quot;fr&amp;quot;&amp;gt;Touches et commandes&amp;lt;/h1&amp;gt;  		 		 		 		 &amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt; &amp;lt;div style=&amp;quot;border: 0px solid #01a… »&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nouvelle page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&amp;lt;div class=&amp;quot;mw-indicators mw-body-content&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;lt;h1 id=&amp;quot;firstHeading&amp;quot;  lang=&amp;quot;fr&amp;quot;&amp;gt;Touches et commandes&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;border: 0px solid #01a35a; border-radius: 0px; padding:4px 8px 8px 8px; margin:10px; background: #fcfcfc;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;float:right; width: 32vw;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;Pour utiliser une commande en jeux, il suffit d'appuyer sur  &amp;lt;q&amp;gt;t&amp;lt;/q&amp;gt;  et de taper la commande souhaitée.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;ul&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_commandes&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des commandes&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/opti&amp;lt;/code&amp;gt; Optimisation des FPS.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/debug&amp;lt;/code&amp;gt; Commande de Debug.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/carry&amp;lt;/code&amp;gt; Porter une personne.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/id&amp;lt;/code&amp;gt; Voir votre ID en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/radio&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/frequency&amp;lt;/code&amp;gt; Changer la Fréquence Radio.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/enleveplaque&amp;lt;/code&amp;gt; Enlever la plaque voiture.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/Remettreplaque&amp;lt;/code&amp;gt; Remettre la plaque voiture.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/report [id] [raison]&amp;lt;/code&amp;gt; Signaler un joueur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/otage&amp;lt;/code&amp;gt; Prendre un joueur en otage.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/clear&amp;lt;/code&amp;gt; Nettoyez votre chat en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/hud&amp;lt;/code&amp;gt; Enlever l'hud du serveur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/on&amp;lt;/code&amp;gt; Enlever l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/off&amp;lt;/code&amp;gt; Mettre l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/passager&amp;lt;/code&amp;gt; Vous mettre en passager.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/blackandwhite&amp;lt;/code&amp;gt; Jeu en noire et blanc.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/saturation&amp;lt;/code&amp;gt; Jeu en couleur graphic.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/neon&amp;lt;/code&amp;gt; Activer / désactiver vos néons.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/rps&amp;lt;/code&amp;gt; Jouer à pierre papier ciseau.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/dee [nombre de dé 1-3]&amp;lt;/code&amp;gt; Jouer aux dés.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_touches&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des touches&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Téléphone.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F2&amp;lt;/code&amp;gt; Inventaire.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F3&amp;lt;/code&amp;gt; Menu Animations.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F5&amp;lt;/code&amp;gt; Menu principal.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F6&amp;lt;/code&amp;gt; Menu Métiers.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F7&amp;lt;/code&amp;gt; Factures.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F9&amp;lt;/code&amp;gt; Boîtier RGB&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;SHIFT&amp;lt;/code&amp;gt; + &amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;Y&amp;lt;/code&amp;gt; Clé véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;L&amp;lt;/code&amp;gt; Coffre véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;²&amp;lt;/code&amp;gt; Lever les mains.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;U&amp;lt;/code&amp;gt; et &amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Ragdoll/Se relever.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;B&amp;lt;/code&amp;gt; Pointer du doigt.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Annuler l'animation.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;H&amp;lt;/code&amp;gt; Changer la fréquence de la voix.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=(Article_title)&amp;diff=12&amp;oldid=0</id>
+		<title>(Article title)</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=(Article_title)&amp;diff=12&amp;oldid=0"/>
+		<updated>2020-09-08T00:50:21Z</updated>
+
+		<summary type="html">&lt;p&gt;Page créée avec « azeaeazea »&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nouvelle page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&amp;lt;div class=&amp;quot;mw-indicators mw-body-content&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;lt;h1 id=&amp;quot;firstHeading&amp;quot;  lang=&amp;quot;fr&amp;quot;&amp;gt;Touches et commandes&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;border: 0px solid #01a35a; border-radius: 0px; padding:4px 8px 8px 8px; margin:10px; background: #fcfcfc;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;float:right; width: 32vw;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;Pour utiliser une commande en jeux, il suffit d'appuyer sur  &amp;lt;q&amp;gt;t&amp;lt;/q&amp;gt;  et de taper la commande souhaitée.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;ul&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_commandes&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des commandes&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/opti&amp;lt;/code&amp;gt; Optimisation des FPS.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/debug&amp;lt;/code&amp;gt; Commande de Debug.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/carry&amp;lt;/code&amp;gt; Porter une personne.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/id&amp;lt;/code&amp;gt; Voir votre ID en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/radio&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/frequency&amp;lt;/code&amp;gt; Changer la Fréquence Radio.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/enleveplaque&amp;lt;/code&amp;gt; Enlever la plaque voiture.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/Remettreplaque&amp;lt;/code&amp;gt; Remettre la plaque voiture.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/report [id] [raison]&amp;lt;/code&amp;gt; Signaler un joueur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/otage&amp;lt;/code&amp;gt; Prendre un joueur en otage.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/clear&amp;lt;/code&amp;gt; Nettoyez votre chat en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/hud&amp;lt;/code&amp;gt; Enlever l'hud du serveur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/on&amp;lt;/code&amp;gt; Enlever l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/off&amp;lt;/code&amp;gt; Mettre l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/passager&amp;lt;/code&amp;gt; Vous mettre en passager.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/blackandwhite&amp;lt;/code&amp;gt; Jeu en noire et blanc.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/saturation&amp;lt;/code&amp;gt; Jeu en couleur graphic.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/neon&amp;lt;/code&amp;gt; Activer / désactiver vos néons.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/rps&amp;lt;/code&amp;gt; Jouer à pierre papier ciseau.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/dee [nombre de dé 1-3]&amp;lt;/code&amp;gt; Jouer aux dés.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_touches&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des touches&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Téléphone.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F2&amp;lt;/code&amp;gt; Inventaire.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F3&amp;lt;/code&amp;gt; Menu Animations.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F5&amp;lt;/code&amp;gt; Menu principal.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F6&amp;lt;/code&amp;gt; Menu Métiers.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F7&amp;lt;/code&amp;gt; Factures.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F9&amp;lt;/code&amp;gt; Boîtier RGB&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;SHIFT&amp;lt;/code&amp;gt; + &amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;Y&amp;lt;/code&amp;gt; Clé véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;L&amp;lt;/code&amp;gt; Coffre véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;²&amp;lt;/code&amp;gt; Lever les mains.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;U&amp;lt;/code&amp;gt; et &amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Ragdoll/Se relever.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;B&amp;lt;/code&amp;gt; Pointer du doigt.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Annuler l'animation.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;H&amp;lt;/code&amp;gt; Changer la fréquence de la voix.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=Utilisateur:Admin&amp;diff=11&amp;oldid=10</id>
+		<title>Utilisateur:Admin</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=Utilisateur:Admin&amp;diff=11&amp;oldid=10"/>
+		<updated>2020-09-08T00:50:12Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;fr&quot;&gt;
+				&lt;td colspan=&quot;1&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Version précédente&lt;/td&gt;
+				&lt;td colspan=&quot;1&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Version du 8 septembre 2020 à 00:50&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-notice&quot; lang=&quot;fr&quot;&gt;&lt;div class=&quot;mw-diff-empty&quot;&gt;(Aucune différence)&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=Utilisateur:Admin&amp;diff=10&amp;oldid=0</id>
+		<title>Utilisateur:Admin</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=Utilisateur:Admin&amp;diff=10&amp;oldid=0"/>
+		<updated>2020-09-08T00:45:06Z</updated>
+
+		<summary type="html">&lt;p&gt;Liste des commandes&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nouvelle page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&amp;lt;div class=&amp;quot;mw-indicators mw-body-content&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;lt;h1 id=&amp;quot;firstHeading&amp;quot;  lang=&amp;quot;fr&amp;quot;&amp;gt;Touches et commandes&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;border: 0px solid #01a35a; border-radius: 0px; padding:4px 8px 8px 8px; margin:10px; background: #fcfcfc;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;float:right; width: 32vw;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;Pour utiliser une commande en jeux, il suffit d'appuyer sur  &amp;lt;q&amp;gt;t&amp;lt;/q&amp;gt;  et de taper la commande souhaitée.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;ul&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_commandes&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des commandes&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/opti&amp;lt;/code&amp;gt; Optimisation des FPS.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/debug&amp;lt;/code&amp;gt; Commande de Debug.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/carry&amp;lt;/code&amp;gt; Porter une personne.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/id&amp;lt;/code&amp;gt; Voir votre ID en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/radio&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/frequency&amp;lt;/code&amp;gt; Changer la Fréquence Radio.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/enleveplaque&amp;lt;/code&amp;gt; Enlever la plaque voiture.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/Remettreplaque&amp;lt;/code&amp;gt; Remettre la plaque voiture.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/report [id] [raison]&amp;lt;/code&amp;gt; Signaler un joueur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/otage&amp;lt;/code&amp;gt; Prendre un joueur en otage.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/clear&amp;lt;/code&amp;gt; Nettoyez votre chat en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/hud&amp;lt;/code&amp;gt; Enlever l'hud du serveur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/on&amp;lt;/code&amp;gt; Enlever l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/off&amp;lt;/code&amp;gt; Mettre l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/passager&amp;lt;/code&amp;gt; Vous mettre en passager.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/blackandwhite&amp;lt;/code&amp;gt; Jeu en noire et blanc.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/saturation&amp;lt;/code&amp;gt; Jeu en couleur graphic.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/neon&amp;lt;/code&amp;gt; Activer / désactiver vos néons.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/rps&amp;lt;/code&amp;gt; Jouer à pierre papier ciseau.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/dee [nombre de dé 1-3]&amp;lt;/code&amp;gt; Jouer aux dés.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_touches&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des touches&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Téléphone.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F2&amp;lt;/code&amp;gt; Inventaire.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F3&amp;lt;/code&amp;gt; Menu Animations.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F5&amp;lt;/code&amp;gt; Menu principal.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F6&amp;lt;/code&amp;gt; Menu Métiers.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F7&amp;lt;/code&amp;gt; Factures.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F9&amp;lt;/code&amp;gt; Boîtier RGB&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;SHIFT&amp;lt;/code&amp;gt; + &amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;Y&amp;lt;/code&amp;gt; Clé véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;L&amp;lt;/code&amp;gt; Coffre véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;²&amp;lt;/code&amp;gt; Lever les mains.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;U&amp;lt;/code&amp;gt; et &amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Ragdoll/Se relever.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;B&amp;lt;/code&amp;gt; Pointer du doigt.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Annuler l'animation.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;H&amp;lt;/code&amp;gt; Changer la fréquence de la voix.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=Accueil&amp;diff=9&amp;oldid=8</id>
+		<title>Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=Accueil&amp;diff=9&amp;oldid=8"/>
+		<updated>2020-09-08T00:29:39Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;fr&quot;&gt;
+				&lt;td colspan=&quot;1&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Version précédente&lt;/td&gt;
+				&lt;td colspan=&quot;1&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Version du 8 septembre 2020 à 00:29&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-notice&quot; lang=&quot;fr&quot;&gt;&lt;div class=&quot;mw-diff-empty&quot;&gt;(Aucune différence)&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php/Discussion:Accueil</id>
+		<title>Discussion:Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Discussion:Accueil"/>
+		<updated>2020-09-08T00:27:36Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a restauré la page &lt;a href=&quot;/wiki/index.php/Discussion:Accueil&quot; title=&quot;Discussion:Accueil&quot;&gt;Discussion:Accueil&lt;/a&gt; (4 révisions)&lt;/p&gt;
+</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php/Accueil</id>
+		<title>Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Accueil"/>
+		<updated>2020-09-08T00:27:21Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a restauré la page &lt;a href=&quot;/wiki/index.php/Accueil&quot; title=&quot;Accueil&quot;&gt;Accueil&lt;/a&gt; (4 révisions)&lt;/p&gt;
+</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php/Discussion:Accueil</id>
+		<title>Discussion:Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Discussion:Accueil"/>
+		<updated>2020-09-07T18:13:50Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a supprimé la page &lt;a href=&quot;/wiki/index.php/Discussion:Accueil&quot; title=&quot;Discussion:Accueil&quot;&gt;Discussion:Accueil&lt;/a&gt; contenait « &amp;lt;h1&amp;gt;&amp;lt;span id=&amp;quot;Règlements_HRP&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;R.C3.A8glements_HRP&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Règlements HRP&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt; &amp;lt;h3&amp;gt;&amp;lt;span id=&amp;quot;Règles_Discord&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;R.C3.A8gles_Discord&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Règles Discord&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h3&amp;gt; &amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;1. Vous devez obligatoirement mettre votre PRÉNOM et NOM RP sur d… » et son seul contributeur était &lt;a href=&quot;/wiki/index.php/Sp%C3%A9cial:Contributions/Admin&quot; title=&quot;Spécial:Contributions/Admin&quot;&gt;Admin&lt;/a&gt; (&lt;a href=&quot;/wiki/index.php?title=Discussion_utilisateur:Admin&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;Discussion utilisateur:Admin (page inexistante)&quot;&gt;discussion&lt;/a&gt;)&lt;/p&gt;
+</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php/Accueil</id>
+		<title>Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Accueil"/>
+		<updated>2020-09-07T18:13:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a supprimé la page &lt;a href=&quot;/wiki/index.php/Accueil&quot; title=&quot;Accueil&quot;&gt;Accueil&lt;/a&gt; contenait « &amp;lt;h1&amp;gt;&amp;lt;span id=&amp;quot;Règlements_HRP&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;R.C3.A8glements_HRP&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Règlements HRP&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt; &amp;lt;h3&amp;gt;&amp;lt;span id=&amp;quot;Règles_Discord&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;R.C3.A8gles_Discord&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Règles Discord&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h3&amp;gt; &amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;1. Vous devez obligatoirement mettre votre PRÉNOM et NOM RP sur discord et sur steam (Votre Prénom + Nom RP ne doit pas être offensant et ne doit pas contenir un jeu… »&lt;/p&gt;
+</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=Accueil&amp;diff=8&amp;oldid=0</id>
+		<title>Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=Accueil&amp;diff=8&amp;oldid=0"/>
+		<updated>2020-09-07T18:11:24Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a supprimé la protection de &lt;a href=&quot;/wiki/index.php/Accueil&quot; title=&quot;Accueil&quot;&gt;Accueil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nouvelle page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&amp;lt;div class=&amp;quot;mw-indicators mw-body-content&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;lt;h1 id=&amp;quot;firstHeading&amp;quot;  lang=&amp;quot;fr&amp;quot;&amp;gt;Touches et commandes&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;border: 0px solid #01a35a; border-radius: 0px; padding:4px 8px 8px 8px; margin:10px; background: #fcfcfc;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;float:right; width: 32vw;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;Pour utiliser une commande en jeux, il suffit d'appuyer sur  &amp;lt;q&amp;gt;t&amp;lt;/q&amp;gt;  et de taper la commande souhaitée.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;ul&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_commandes&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des commandes&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/opti&amp;lt;/code&amp;gt; Optimisation des FPS.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/debug&amp;lt;/code&amp;gt; Commande de Debug.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/carry&amp;lt;/code&amp;gt; Porter une personne.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/id&amp;lt;/code&amp;gt; Voir votre ID en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/radio&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/frequency&amp;lt;/code&amp;gt; Changer la Fréquence Radio.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/enleveplaque&amp;lt;/code&amp;gt; Enlever la plaque voiture.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/Remettreplaque&amp;lt;/code&amp;gt; Remettre la plaque voiture.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/report [id] [raison]&amp;lt;/code&amp;gt; Signaler un joueur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/otage&amp;lt;/code&amp;gt; Prendre un joueur en otage.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/clear&amp;lt;/code&amp;gt; Nettoyez votre chat en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/hud&amp;lt;/code&amp;gt; Enlever l'hud du serveur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/on&amp;lt;/code&amp;gt; Enlever l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/off&amp;lt;/code&amp;gt; Mettre l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/passager&amp;lt;/code&amp;gt; Vous mettre en passager.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/blackandwhite&amp;lt;/code&amp;gt; Jeu en noire et blanc.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/saturation&amp;lt;/code&amp;gt; Jeu en couleur graphic.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/neon&amp;lt;/code&amp;gt; Activer / désactiver vos néons.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/rps&amp;lt;/code&amp;gt; Jouer à pierre papier ciseau.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/dee [nombre de dé 1-3]&amp;lt;/code&amp;gt; Jouer aux dés.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_touches&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des touches&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Téléphone.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F2&amp;lt;/code&amp;gt; Inventaire.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F3&amp;lt;/code&amp;gt; Menu Animations.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F5&amp;lt;/code&amp;gt; Menu principal.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F6&amp;lt;/code&amp;gt; Menu Métiers.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F7&amp;lt;/code&amp;gt; Factures.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F9&amp;lt;/code&amp;gt; Boîtier RGB&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;SHIFT&amp;lt;/code&amp;gt; + &amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;Y&amp;lt;/code&amp;gt; Clé véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;L&amp;lt;/code&amp;gt; Coffre véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;²&amp;lt;/code&amp;gt; Lever les mains.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;U&amp;lt;/code&amp;gt; et &amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Ragdoll/Se relever.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;B&amp;lt;/code&amp;gt; Pointer du doigt.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Annuler l'animation.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;H&amp;lt;/code&amp;gt; Changer la fréquence de la voix.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php/Discussion:Accueil</id>
+		<title>Discussion:Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Discussion:Accueil"/>
+		<updated>2020-09-07T18:09:04Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a restauré la page &lt;a href=&quot;/wiki/index.php/Discussion:Accueil&quot; title=&quot;Discussion:Accueil&quot;&gt;Discussion:Accueil&lt;/a&gt; (4 révisions)&lt;/p&gt;
+</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php?title=Accueil&amp;diff=7&amp;oldid=0</id>
+		<title>Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php?title=Accueil&amp;diff=7&amp;oldid=0"/>
+		<updated>2020-09-07T18:08:47Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a protégé &lt;a href=&quot;/wiki/index.php/Accueil&quot; title=&quot;Accueil&quot;&gt;Accueil&lt;/a&gt; [Modifier=Autoriser uniquement les administrateurs] (infini) [Renommer=Autoriser uniquement les administrateurs] (infini)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nouvelle page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&amp;lt;div class=&amp;quot;mw-indicators mw-body-content&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;lt;h1 id=&amp;quot;firstHeading&amp;quot;  lang=&amp;quot;fr&amp;quot;&amp;gt;Touches et commandes&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+		&lt;br /&gt;
+&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;border: 0px solid #01a35a; border-radius: 0px; padding:4px 8px 8px 8px; margin:10px; background: #fcfcfc;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div style=&amp;quot;float:right; width: 32vw;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;Pour utiliser une commande en jeux, il suffit d'appuyer sur  &amp;lt;q&amp;gt;t&amp;lt;/q&amp;gt;  et de taper la commande souhaitée.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;ul&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_commandes&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des commandes&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/opti&amp;lt;/code&amp;gt; Optimisation des FPS.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/debug&amp;lt;/code&amp;gt; Commande de Debug.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/carry&amp;lt;/code&amp;gt; Porter une personne.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/id&amp;lt;/code&amp;gt; Voir votre ID en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/radio&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/frequency&amp;lt;/code&amp;gt; Changer la Fréquence Radio.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/enleveplaque&amp;lt;/code&amp;gt; Enlever la plaque voiture.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/Remettreplaque&amp;lt;/code&amp;gt; Remettre la plaque voiture.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/report [id] [raison]&amp;lt;/code&amp;gt; Signaler un joueur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/otage&amp;lt;/code&amp;gt; Prendre un joueur en otage.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/clear&amp;lt;/code&amp;gt; Nettoyez votre chat en jeu.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/hud&amp;lt;/code&amp;gt; Enlever l'hud du serveur.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/on&amp;lt;/code&amp;gt; Enlever l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;/off&amp;lt;/code&amp;gt; Mettre l'hud GTA Base.&amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;/passager&amp;lt;/code&amp;gt; Vous mettre en passager.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/blackandwhite&amp;lt;/code&amp;gt; Jeu en noire et blanc.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/saturation&amp;lt;/code&amp;gt; Jeu en couleur graphic.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/neon&amp;lt;/code&amp;gt; Activer / désactiver vos néons.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/rps&amp;lt;/code&amp;gt; Jouer à pierre papier ciseau.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;/dee [nombre de dé 1-3]&amp;lt;/code&amp;gt; Jouer aux dés.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;h2&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;Liste_des_touches&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Liste des touches&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Téléphone.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F2&amp;lt;/code&amp;gt; Inventaire.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F3&amp;lt;/code&amp;gt; Menu Animations.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F5&amp;lt;/code&amp;gt; Menu principal.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F6&amp;lt;/code&amp;gt; Menu Métiers.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F7&amp;lt;/code&amp;gt; Factures.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;F9&amp;lt;/code&amp;gt; Boîtier RGB&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;SHIFT&amp;lt;/code&amp;gt; + &amp;lt;code&amp;gt;F1&amp;lt;/code&amp;gt; Radio.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;Y&amp;lt;/code&amp;gt; Clé véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;L&amp;lt;/code&amp;gt; Coffre véhicule.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;²&amp;lt;/code&amp;gt; Lever les mains.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;U&amp;lt;/code&amp;gt; et &amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Ragdoll/Se relever.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;B&amp;lt;/code&amp;gt; Pointer du doigt.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;X&amp;lt;/code&amp;gt; Annuler l'animation.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;code&amp;gt;H&amp;lt;/code&amp;gt; Changer la fréquence de la voix.&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://lithium-rp.fr/wiki/index.php/Discussion:Accueil</id>
+		<title>Discussion:Accueil</title>
+		<link rel="alternate" type="text/html" href="http://lithium-rp.fr/wiki/index.php/Discussion:Accueil"/>
+		<updated>2020-09-07T18:08:12Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/index.php/Utilisateur:Admin&quot; class=&quot;mw-userlink&quot; title=&quot;Utilisateur:Admin&quot;&gt;&lt;bdi&gt;Admin&lt;/bdi&gt;&lt;/a&gt; a supprimé la page &lt;a href=&quot;/wiki/index.php/Discussion:Accueil&quot; title=&quot;Discussion:Accueil&quot;&gt;Discussion:Accueil&lt;/a&gt; contenait « &amp;lt;h1&amp;gt;&amp;lt;span id=&amp;quot;Règlements_HRP&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;R.C3.A8glements_HRP&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Règlements HRP&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt; &amp;lt;h3&amp;gt;&amp;lt;span id=&amp;quot;Règles_Discord&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;mw-headline&amp;quot; id=&amp;quot;R.C3.A8gles_Discord&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#01a35a&amp;quot;&amp;gt;Règles Discord&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h3&amp;gt; &amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;1. Vous devez obligatoirement mettre votre PRÉNOM et NOM RP sur d… » et son seul contributeur était &lt;a href=&quot;/wiki/index.php/Sp%C3%A9cial:Contributions/Admin&quot; title=&quot;Spécial:Contributions/Admin&quot;&gt;Admin&lt;/a&gt; (&lt;a href=&quot;/wiki/index.php?title=Discussion_utilisateur:Admin&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;Discussion utilisateur:Admin (page inexistante)&quot;&gt;discussion&lt;/a&gt;)&lt;/p&gt;
+</summary>
+		<author><name>Admin</name></author>
+		
+	</entry>
+</feed>
